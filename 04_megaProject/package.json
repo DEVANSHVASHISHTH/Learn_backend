@@ -1,0 +1,17 @@
+{
+  "name": "04_megaproject",
+  "version": "1.0.0",
+  "description": "a backend at mega project",
+  "keywords": [
+    "javascript",
+    "backend",
+    "chai"
+  ],
+  "license": "ISC",
+  "author": "Devansh Vashisth",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
